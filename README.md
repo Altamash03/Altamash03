@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Altamash03
-- 👀 I’m interested in Web Development|C++|Python|MachineLearning|
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development|Python|App Development|
+- 👨‍💻 My programming skills are HTML5|CSS|JavaScript|React|React Native|Python
+- 🌱 I’m currently learning NodeJS,Express JS
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me Email:- asiddiuqi0309@gmail.com
 
